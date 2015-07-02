@@ -4,7 +4,8 @@
     "keywords" : ["laravel", "facebook"],
     "require": {
         "laravel/framework": "4.*",
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "facebook/php-sdk-v4" : "4.0.*"
     },
     "authors": [
         {
