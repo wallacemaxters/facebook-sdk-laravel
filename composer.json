@@ -1,6 +1,6 @@
 {
     "name": "wallacemaxters/facebook-sdk-laravel",
-    "description": "Contains the FacebookRedirectLoginHelper class",
+    "description": "Solution to use the  facebook api with Laravel 4 session, instead of the php native session",
     "keywords" : ["laravel", "facebook"],
     "require": {
         "laravel/framework": "4.*",
