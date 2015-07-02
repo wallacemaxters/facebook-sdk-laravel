@@ -1,8 +1,10 @@
 {
     "name": "wallacemaxters/facebook-sdk-laravel",
-    "description": "Laravel",
+    "description": "Contains the FacebookRedirectLoginHelper class",
+    "keywords" : ["laravel", "facebook"],
     "require": {
-        "laravel/framework": "4.*"
+        "laravel/framework": "4.*",
+        "php": ">=5.4.0"
     },
     "authors": [
         {
@@ -14,5 +16,5 @@
         "psr-4" : {
            "WallaceMaxters\\FacebookSDKLaravel\\" : "src/facebookSDKLaravel"
         }
-    }
+    },
 }
