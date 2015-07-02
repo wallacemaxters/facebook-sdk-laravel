@@ -4,7 +4,7 @@ namespace WallaceMaxters\FacebookSDKLaravel;
 
 /**
 * @version 1.0.0
-* @author Wallace de Souza <wallacemaxters@gmail.com>
+* @author Wallace de Souza Vizerra <wallacemaxters@gmail.com>
 */
 
 use Session;
