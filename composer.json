@@ -11,8 +11,8 @@
         }
     ],
     "autoload" : {
-        "psr4" : {
-           "WallaceMaxters\\FacebookSDKLaravel" : "src/facebookSDKLaravel"
+        "psr-4" : {
+           "WallaceMaxters\\FacebookSDKLaravel\\" : "src/facebookSDKLaravel"
         }
     }
 }
