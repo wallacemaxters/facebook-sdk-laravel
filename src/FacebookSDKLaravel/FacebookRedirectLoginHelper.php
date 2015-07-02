@@ -4,7 +4,7 @@ namespace WallaceMaxters\FacebookSDKLaravel;
 
 /**
 * @version 1.0.0
-* @author Wallace de Souza <wallacemaxters@gmail.com>
+* @author Wallace de Souza Vizerra <wallacemaxters@gmail.com>
 */
 
 use Session;
@@ -63,6 +63,7 @@ class FacebookRedirectLoginHelper extends \Facebook\FacebookRedirectLoginHelper
         $this->sessionStateIndex = $index;
     }
 
+<<<<<<< HEAD
     /**
     * @return string
     */
@@ -71,3 +72,13 @@ class FacebookRedirectLoginHelper extends \Facebook\FacebookRedirectLoginHelper
         return $this->sessionStateIndex;
     }
 }
+=======
+  	/**
+  	* @return string
+  	*/
+  	public function getSessionStateIndex()
+  	{
+  		return $this->sessionStateIndex;
+  	}
+}
+>>>>>>> 782247bd6e80aa1bb8eb7f74b69be12fafed2295
