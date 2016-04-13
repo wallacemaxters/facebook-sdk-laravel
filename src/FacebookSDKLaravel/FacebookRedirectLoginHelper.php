@@ -3,7 +3,7 @@
 namespace WallaceMaxters\FacebookSDKLaravel;
 
 /**
-* @package WallaceMaxters\FacebookSDB
+* @package WallaceMaxters\FacebookSDKLaravel
 * @author Wallace de Souza Vizerra <wallacemaxters@gmail.com>
 */
 

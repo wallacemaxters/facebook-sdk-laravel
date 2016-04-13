@@ -1,9 +1,8 @@
 {
     "name": "wallacemaxters/facebook-sdk-laravel",
     "description": "Solution to use the  facebook api with Laravel 4 session, instead of the php native session",
-    "keywords" : ["laravel", "facebook"],
+    "keywords" : ["laravel", "facebook", "facebook-sdk"],
     "require": {
-        "laravel/framework": "4.*",
         "php": ">=5.4.0",
         "facebook/php-sdk-v4" : "4.0.*"
     },
