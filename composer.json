@@ -1,5 +1,6 @@
 {
     "name": "wallacemaxters/facebook-sdk-laravel",
+    "license" : "MIT",
     "description": "Solution to use the  facebook api with Laravel 4 session, instead of the php native session",
     "keywords" : ["laravel", "facebook", "facebook-sdk"],
     "require": {
